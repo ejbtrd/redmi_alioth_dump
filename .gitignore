@@ -1,0 +1,8 @@
+boot.img
+system_ext/priv-app/Settings/Settings.apk
+vendor/etc/camera/st_license.lic
+vendor/camera/mimoji/model2.zip
+.git/objects/pack/pack-6bf586bcff7f15882d9e01250f6d139164b2a9b1.pack
+product/priv-app/Velvet/Velvet.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
